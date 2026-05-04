@@ -23,7 +23,8 @@
 .loader.show {
   display: block;
 }
-.search-form {
+
+.form {
   text-align: center;
   margin: 20px;
 }
